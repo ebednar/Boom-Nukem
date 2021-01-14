@@ -50,7 +50,7 @@ This level was created by map_editor program, located on:
 With it, respecting the rules, you can define all kinds of levels, portal-oriented engine provides all opportunities to manage even with non-euclidian geometry levels, infinite corridors, ladders and many other fun stuff.
 
 ### authors:
-##### ME
-##### [Ксения](https://github.com/odnaks)
 ##### [Карим](https://github.com/ebednar)
+##### [Василий](https://github.com/Twitting)
+##### [Ксения](https://github.com/odnaks)
 ##### [Лев](https://github.com/PolyakovLev)
